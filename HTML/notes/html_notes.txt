@@ -1,0 +1,7 @@
+HTML notes
+ - Basic Tags
+ - Lists
+ - Divs and spans
+ - Attributes
+ - Tables
+ - Forms
