@@ -1,0 +1,5 @@
+Bootstrap notes
+ - Always start with setting up BOTH CSS and JS Bootstrap links into the HTML page.
+ - In case we needed to use a separate CSS file, it should be included of course in 
+   the <head> tag of the HTML file, but below the Bootstrap link, in order to apply
+   changes made using CSS.
